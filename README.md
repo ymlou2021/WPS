@@ -17,5 +17,5 @@ python algorithms:
 
 There are two .py files under this repository, bioinfo_test.py is for testing (without looping chr part) and bioinfo.py is the complete version.
 
-*
+comments:
 the whole WPS file is too big for uploading
