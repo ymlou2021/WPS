@@ -16,3 +16,6 @@ python algorithms:
     c. calculate the avg. WPS and store in the dictionary(key: gene version ID, value: avg. WPS)
 
 There are two .py files under this repository, bioinfo_test.py is for testing (without looping chr part) and bioinfo.py is the complete version.
+
+*
+the whole WPS file is too big for uploading
