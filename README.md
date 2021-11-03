@@ -2,11 +2,14 @@
 Calculate average WPS for genes
 
 Imput files:
-1. WPS.bedgrapg
+1. WPS.bw
 2. human_gene.txt
 
-python algorithms:
-1. pandas read files
+Command lines:
+convert bigwig to bedgraph: -bigWigToBedGraph wps.bw wps.bedGraph
+
+Python algorithms:
+1. pandas read files (wps.bedGraph, human_gene.txt)
 2. groupby as chr
 3. loops the chromosomes
 4. loops the genes in each chromosome
